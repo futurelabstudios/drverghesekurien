@@ -12,6 +12,9 @@ permalink: /
 <section class="h-hero" aria-label="Introduction">
   <div class="h-hero-bg" style="background-image:url('{{ W }}Amul_Plant_at_Anand.jpg?width=2000')"></div>
   <div class="h-hero-shade"></div>
+  <figure class="h-portrait">
+    <img src="{{ W }}Verghese_Kurien_in_2009_%28cropped%29.jpg?width=1400" alt="Dr. Verghese Kurien in 2009">
+  </figure>
   <div class="h-wrap h-hero-grid">
     <div class="h-hero-copy">
       <div class="h-kicker h-rise" style="--d:900ms"><span class="h-rule"></span>The People's Archive</div>
@@ -24,14 +27,13 @@ permalink: /
         <a class="h-btn h-btn-ghost" href="{{ '/memories/' | relative_url }}">Read the memories</a>
       </div>
     </div>
-    <figure class="h-plate h-rise" style="--d:420ms">
-      <div class="h-plate-mat"><img src="{{ W }}Verghese_Kurien_in_2009_%28cropped%29.jpg?width=600" alt="Dr. Verghese Kurien in 2009"></div>
-      <figcaption><span>Plate I</span>Dr. Verghese Kurien, 2009</figcaption>
-    </figure>
   </div>
   <div class="h-wrap h-hero-foot">
     <span class="h-scroll" aria-hidden="true"><span></span>Scroll</span>
-    <span class="h-credit">Amul plant, Anand · <a href="https://commons.wikimedia.org/wiki/File:Amul_Plant_at_Anand.jpg">Notnarayan, CC BY-SA 3.0</a></span>
+    <span class="h-credits">
+      <span class="h-credit">Amul plant, Anand · <a href="https://commons.wikimedia.org/wiki/File:Amul_Plant_at_Anand.jpg">Notnarayan, CC BY-SA 3.0</a></span>
+      <span class="h-credit">Portrait, 2009 · <a href="https://commons.wikimedia.org/wiki/File:Verghese_Kurien_in_2009_(cropped).jpg">Ministry of Railways, GODL-India</a></span>
+    </span>
   </div>
 </section>
 
