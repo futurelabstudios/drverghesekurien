@@ -1,0 +1,29 @@
+title: Dr. Verghese Kurien — The People's Archive
+description: An open-source, community-built archive of the life, institutions, ideas and memories of Dr. Verghese Kurien (1921–2012), Father of India's White Revolution.
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links:
+  "Contribute on GitHub": "https://github.com/futurelabstudios/drverghesekurien"
+aux_links_new_tab: true
+
+gh_edit_link: true
+gh_edit_link_text: "Suggest an edit to this page"
+gh_edit_repository: "https://github.com/futurelabstudios/drverghesekurien"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+footer_content: "Text licensed CC BY-SA 4.0 unless noted. Media remain the property of their owners and are shared with permission. Built by the community; started by Futurelab Studios."
+
+exclude:
+  - "memories/_TEMPLATE.md"
+  - "media/_TEMPLATE.md"
+  - ".github"
