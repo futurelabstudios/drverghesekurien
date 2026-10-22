@@ -1,63 +1,61 @@
----
-title: How to contribute
-nav_order: 5
----
+# Contributing
 
-# How to contribute
+You can suggest a story, a picture, or a correction without installing anything and without using a command line. You only need a web browser and a free GitHub account.
 
-Thank you for helping preserve Dr. Kurien's story. Everything comes in through **pull requests** (PRs), which maintainers review before publishing.
+These notes assume the archive has a public page on GitHub. If you are reading the files somewhere else, the same ideas still apply: send the maintainer a link, the name of the person who told the story, and what you think is wrong.
 
-## What you can add
+## 1. Open the project on GitHub
 
-| Contribution | Where |
-|---|---|
-| A memory or anecdote | `memories/` using [the memory template](memories/_TEMPLATE.md) |
-| A photo or scanned document | `media/photos/` or `media/documents/` + a catalogue entry |
-| A video | `media/videos/` — a catalogue entry with a link |
-| A correction or new fact | Edit the relevant file in `report/` and add a source |
-| A source | `report/11-sources.md` |
-| An answer to an open question | `report/12-open-questions.md` and the relevant chapter |
+Go to the repository page in your browser. You will see a row of tabs near the top: Code, Issues, Pull requests.
 
-## The easy way (no software needed)
+You do not need to download the archive.
 
-1. Sign in to GitHub (free account).
-2. **To edit a page:** click "Suggest an edit to this page" at the bottom of any page on the website, or the ✏️ pencil icon on GitHub. Make your change and click **Propose changes** → **Create pull request**.
-3. **To add a memory:** open the `memories` folder on GitHub → **Add file → Create new file**. Paste the template, fill it in, name the file `YYYY-your-name-short-title.md`, then **Propose new file → Create pull request**.
-4. **To add a photo:** open `media/photos` → **Add file → Upload files**. Then create its catalogue `.md` file the same way.
+## 2. Start an issue
 
-GitHub automatically makes a copy (a "fork") for you — that's normal.
+Click **Issues**, then **New issue**.
 
-## The developer way
+GitHub will offer three kinds of note:
 
-```bash
-git clone https://github.com/<you>/drverghesekurien.git
-git checkout -b add-memory-yourname
-# add files
-git commit -m "Add memory: IRMA fieldwork 1988"
-git push origin add-memory-yourname
-# open a PR
-```
+- **New story** — you know an anecdote, and you can point to where it was told.
+- **Photo or video** — you have found a picture or a film.
+- **Correction** — a date, a name, a number, or a misreading.
 
-Preview the site locally with Jekyll if you like (`bundle exec jekyll serve`), but it's not required.
+Click the green button beside the one you want. A form opens. The headings in the form are prompts. Write under them in ordinary sentences.
 
-## Standards
+## 3. What to include for a story
 
-1. **Source every fact** in `report/`. A link, book with page number, or document in `media/`.
-2. **Memories are first-hand** unless clearly labelled as retold.
-3. **Rights first.** Upload only what you own or have permission to share. Link to copyrighted material instead.
-4. **Consent.** Don't publish private details about living people without consent.
-5. **Fair and respectful.** Critical accounts are welcome; personal attacks are not.
-6. **No fabrication**, including AI-generated "photos" or invented quotes. AI-assisted writing is fine if you have checked every fact.
-7. **Any language is welcome.** An English summary helps.
+The archive’s rule is strict, and it is there to protect people who are no longer alive.
 
-## Review
+- A short title.
+- Who told the story, with their name. “An IRMA alumnus” is not enough. “Ajay Gupta, PRM 6” is enough.
+- When and where, if you know. If you do not know, say so.
+- The story, in your own words. A few paragraphs are plenty.
+- A link to a public page: a news report, an institute magazine, a recorded talk, a book’s bibliographic details. A memory you have not written down anywhere else can still be offered. Say plainly that you are the witness.
 
-Maintainers check sources, consent, rights and tone. They may ask questions in the PR or make small edits. Most PRs are reviewed within two weeks.
+Do not paste a whole article, a speech, or a chapter. A link plus a short account is what the editors need.
 
-## Removing content
+## 4. What to include for a picture or a video
 
-If you are a rights holder, family member or the subject of a memory and want something changed or removed, open an issue or email the maintainers. We act quickly.
+- The link.
+- Who made it, if the page says.
+- The licence, if the page says. Photographs are added to the folder only when the licence is open (Creative Commons, or a government open-data licence). If the picture is copyrighted, the editors will link it in the credits file and will not copy the file.
+- One sentence on why it belongs.
 
-## Code of Conduct
+## 5. What to include for a correction
 
-By contributing you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
+- The file name, for example `stories/anecdotes.md`.
+- The sentence you think is wrong.
+- What you would put instead.
+- The link that supports the change.
+
+Disagreement is welcome. Invented colour is not. If two good sources disagree, the archive keeps both and says so. You can ask for that.
+
+## 6. Send it
+
+Click **Submit new issue**. You do not need to know what a commit, a branch, or a pull request is.
+
+Someone maintaining the archive will reply on the same page. If your story is used, it will name you as the teller, or name the person you named, and it will keep your link.
+
+## 7. If you cannot use GitHub
+
+Write the same four things — title, teller, story, link — in an email or a letter to whoever pointed you at this archive. Ask them to open the issue for you.
