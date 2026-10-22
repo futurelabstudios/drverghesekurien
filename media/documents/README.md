@@ -1,6 +1,7 @@
 ---
 title: Documents
 parent: Media
+permalink: /media/documents/
 nav_order: 3
 ---
 
