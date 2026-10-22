@@ -14,12 +14,12 @@ permalink: /
   <div class="h-hero-shade"></div>
   <div class="h-wrap h-hero-grid">
     <div class="h-hero-copy">
-      <div class="h-kicker h-rise" style="--d:100ms"><span class="h-rule"></span>The People's Archive</div>
-      <p class="h-hero-pre h-rise" style="--d:200ms">Dr.</p>
-      <h1 class="h-hero-title h-rise" style="--d:260ms">Verghese<br>Kurien</h1>
-      <p class="h-hero-dates h-rise" style="--d:380ms">1921 <span>—</span> 2012</p>
-      <p class="h-hero-lede h-rise" style="--d:460ms">The engineer who stayed in Anand and helped millions of farmers own the business of their own milk. An open, community-built record of his life, his institutions and the memories of those who knew him.</p>
-      <div class="h-hero-actions h-rise" style="--d:560ms">
+      <div class="h-kicker h-rise" style="--d:900ms"><span class="h-rule"></span>The People's Archive</div>
+      <p class="h-hero-pre h-rise" style="--d:980ms">Dr.</p>
+      <h1 class="h-hero-title h-rise" style="--d:1100ms">Verghese<span class="h-name-gap"> </span><br>Kurien</h1>
+      <p class="h-hero-dates h-rise" style="--d:1750ms">1921 <span>—</span> 2012</p>
+      <p class="h-hero-lede h-rise" style="--d:1900ms">The engineer who stayed in Anand and helped millions of farmers own the business of their own milk. An open, community-built record of his life, his institutions and the memories of those who knew him.</p>
+      <div class="h-hero-actions h-rise" style="--d:2100ms">
         <a class="h-btn h-btn-light" href="{{ '/report/' | relative_url }}">Enter the report <span aria-hidden="true">→</span></a>
         <a class="h-btn h-btn-ghost" href="{{ '/memories/' | relative_url }}">Read the memories</a>
       </div>

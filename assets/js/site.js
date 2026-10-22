@@ -45,6 +45,17 @@
     }
   }
 
+  var mast = document.querySelector(".mast");
+  var hero = document.querySelector(".h-hero");
+  if (mast && hero && document.body.classList.contains("is-home")) {
+    var settleNav = function () {
+      var edge = hero.getBoundingClientRect().bottom;
+      mast.classList.toggle("is-solid", edge <= mast.offsetHeight + 12);
+    };
+    settleNav();
+    window.addEventListener("scroll", settleNav, { passive: true });
+  }
+
   if (reduce || !("IntersectionObserver" in window)) return;
 
   var nodes = document.querySelectorAll("[data-reveal], .h-ledger");
