@@ -59,7 +59,7 @@ h1, h2, h3, .site-title {
   &::before { content: ""; position: absolute; inset: 0;
     background: linear-gradient(180deg, rgba(10,25,32,.15) 0%, rgba(10,25,32,.55) 45%, rgba(10,25,32,.92) 100%); }
   .hero-inner { position: relative; display: flex; gap: 2rem; align-items: flex-end; padding: 2.5rem; flex-wrap: wrap; }
-  .hero-portrait { width: 150px; height: 190px; object-fit: cover; object-position: top; border-radius: 12px;
+  .hero-portrait { width: 150px; height: 190px; object-fit: cover; object-position: center 22%; border-radius: 12px;
     border: 3px solid rgba(255,255,255,.85); box-shadow: 0 10px 30px rgba(0,0,0,.4); }
   .hero-text { flex: 1; min-width: 260px; }
   .hero-kicker { text-transform: uppercase; letter-spacing: .18em; font-size: .72rem; color: #f0d9a8; font-weight: 600; }
@@ -81,7 +81,9 @@ h1, h2, h3, .site-title {
   a.card { display: flex; flex-direction: column; background: $paper; border: 1px solid $line; border-radius: 14px;
     overflow: hidden; text-decoration: none !important; color: $ink; transition: transform .18s ease, box-shadow .18s ease; }
   a.card:hover { transform: translateY(-3px); box-shadow: 0 14px 34px rgba(20,35,43,.14); }
-  .card-img { height: 130px; background: #e9e2d2 center/cover no-repeat; }
+  .card-img { height: 180px; background-color: #e9e2d2; background-size: cover; background-repeat: no-repeat; filter: saturate(.9) contrast(1.03); transition: transform .5s ease; }
+  a.card:hover .card-img { transform: scale(1.03); }
+  a.card { isolation: isolate; }
   .card-img.plain { background: linear-gradient(135deg, $indigo, #1d6b7d); display: flex; align-items: center; justify-content: center;
     font-family: $serif; color: #f0d9a8; font-size: 2.4rem; font-weight: 700; }
   .card-body { padding: .9rem 1rem 1.1rem; }
@@ -89,7 +91,7 @@ h1, h2, h3, .site-title {
   .card-title { font-family: $serif; font-size: 1.15rem; font-weight: 600; margin: .2rem 0 .3rem; line-height: 1.25; }
   .card-text { font-size: .85rem; color: #5b6b71; line-height: 1.45; }
   a.card.feature { grid-column: 1 / -1; flex-direction: row; flex-wrap: wrap; }
-  a.card.feature .card-img { height: auto; min-height: 220px; flex: 1 1 320px; }
+  a.card.feature .card-img { height: auto; min-height: 260px; flex: 1 1 340px; }
   a.card.feature .card-body { flex: 1 1 300px; padding: 1.6rem; }
   a.card.feature .card-title { font-size: 1.6rem; }
 }
@@ -119,4 +121,28 @@ h1, h2, h3, .site-title {
   .hero .hero-inner { padding: 1.5rem; }
   .chapter-banner img { height: 200px; }
   .main-content h1 { font-size: 2rem; }
+}
+
+// ---------- Anecdotes ----------
+.lede { font-size: 1.02rem; color: #4a5a60; max-width: 40rem; }
+.anecdotes {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.2rem; margin: 1.5rem 0 3rem;
+  .anecdote {
+    margin: 0; position: relative; background: $paper; border: 1px solid $line; border-radius: 16px;
+    padding: 2.4rem 1.5rem 1.3rem; display: flex; flex-direction: column; justify-content: space-between;
+    box-shadow: 0 1px 0 rgba(20,35,43,.03);
+    &::before { content: "\201C"; position: absolute; top: .2rem; left: 1.2rem; font-family: $serif; font-size: 4rem; line-height: 1; color: $gold; opacity: .55; }
+  }
+  .anecdote:first-child { grid-column: 1 / -1; background: linear-gradient(135deg, #fffaf0, $paper); border-color: #ead9b4; }
+  .anecdote:first-child blockquote { font-size: 1.3rem; }
+  blockquote {
+    margin: 0 0 1.2rem !important; padding: 0 !important; border: 0 !important; background: none !important;
+    font-family: $serif; font-size: 1.06rem; line-height: 1.55; color: $ink;
+  }
+  figcaption { display: flex; gap: .8rem; align-items: center; border-top: 1px solid $line; padding-top: .9rem; }
+  .avatar { flex: 0 0 40px; height: 40px; border-radius: 50%; background: $indigo; color: #f0d9a8;
+    display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: .78rem; letter-spacing: .04em; }
+  .who { display: flex; flex-direction: column; font-size: .8rem; color: #5b6b71; line-height: 1.35; }
+  .who strong { color: $ink; font-size: .9rem; }
+  .who a { margin-top: .15rem; font-size: .75rem; }
 }
