@@ -4,6 +4,7 @@ parent: The Report
 nav_order: 6
 ---
 
+<div class="eyebrow">Chapter 6</div>
 # 6. Other institutions & ventures
 
 Kurien applied the Anand pattern — farmer ownership plus professional management — well beyond milk.

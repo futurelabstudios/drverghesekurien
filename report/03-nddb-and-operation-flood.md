@@ -4,7 +4,10 @@ parent: The Report
 nav_order: 3
 ---
 
+<div class="eyebrow">Chapter 3</div>
 # 3. NDDB & Operation Flood
+
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Radha_Mohan_Singh_addressing_the_gathering_at_the_presentation_of_the_NDDB_Dairy_Excellence_Awards,_on_the_occasion_of_the_foundation_day_of_National_Dairy_Development_Board,_at_Anand,_in_Gujarat.jpg?width=1600" alt="NDDB Foundation Day and Dairy Excellence Awards, Anand"><figcaption>NDDB Foundation Day and Dairy Excellence Awards, Anand. Photo: <a href="https://commons.wikimedia.org/wiki/File:Radha_Mohan_Singh_addressing_the_gathering_at_the_presentation_of_the_NDDB_Dairy_Excellence_Awards,_on_the_occasion_of_the_foundation_day_of_National_Dairy_Development_Board,_at_Anand,_in_Gujarat.jpg">Ministry of Agriculture and Farmers' Welfare, GODL-India</a></figcaption></figure>
 
 ## Why NDDB was created
 

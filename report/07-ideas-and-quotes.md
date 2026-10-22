@@ -4,6 +4,7 @@ parent: The Report
 nav_order: 7
 ---
 
+<div class="eyebrow">Chapter 7</div>
 # 7. Ideas, philosophy & quotes
 
 ## Core ideas

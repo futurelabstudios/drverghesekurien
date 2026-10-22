@@ -4,7 +4,10 @@ parent: The Report
 nav_order: 5
 ---
 
+<div class="eyebrow">Chapter 5 · Flagship</div>
 # 5. IRMA — the Institute of Rural Management Anand
+
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Former_Prime_Minister_Rajiv_Gandhi_and_%27Father_of_the_White_Revolution%27_Verghese_Kurien_in_IRMA_Campus.jpg?width=1600" alt="Prime Minister Rajiv Gandhi with Dr. Verghese Kurien on the IRMA campus"><figcaption>Prime Minister Rajiv Gandhi with Dr. Verghese Kurien on the IRMA campus. Photo: <a href="https://commons.wikimedia.org/wiki/File:Former_Prime_Minister_Rajiv_Gandhi_and_%27Father_of_the_White_Revolution%27_Verghese_Kurien_in_IRMA_Campus.jpg">IRMA Anand, CC BY-SA 4.0</a></figcaption></figure>
 
 > "If even a handful of IRMA graduates every year can build some more Amuls…"
 > — Dr. Verghese Kurien's hope for IRMA, as quoted by IRMA from *I Too Had a Dream*
@@ -137,9 +140,13 @@ As told by Katar Singh, who was drafting the institute's replies at the time:
 - Chief guest: **PM Indira Gandhi**.
 - Venue: the **Amul lawns**, with roughly **60,000 farmers** in attendance.
 - The first graduating batch had **30 students**.
+
+<figure class="fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Former_Prime_Ministers_of_India_-_Indira_Gandhi_%2C_Rajiv_Gandhi_%2C_Atal_Bihari_Vajpayee_%26_Manmohan_Singh_visisted_IRMA_to_attend_the_Annual_Convocation.jpg?width=1400" alt="Four prime ministers at IRMA convocations: Indira Gandhi, Rajiv Gandhi, Atal Bihari Vajpayee and Manmohan Singh" loading="lazy"><figcaption>Four prime ministers at IRMA convocations: Indira Gandhi, Rajiv Gandhi, Atal Bihari Vajpayee and Manmohan Singh. Photo: <a href="https://commons.wikimedia.org/wiki/File:Former_Prime_Ministers_of_India_-_Indira_Gandhi_,_Rajiv_Gandhi_,_Atal_Bihari_Vajpayee_%26_Manmohan_Singh_visisted_IRMA_to_attend_the_Annual_Convocation.jpg">IRMA Anand, CC BY-SA 4.0</a></figcaption></figure>
 - Kurien gave the **Chairman's address**. Per Tushaar Shah, Kurien never gave the convocation address itself — always the Chairman's address.
 
 **IRMA's convocation dress:** graduates wear **kurta-pyjama**, and receive an **angavastram** with their diploma from the chief guest — a deliberate break from Western gowns and caps.
+
+<figure class="fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Vice_President,_Shri_Mohammad_Hamid_Ansari_with_the_students,_at_the_30th_Convocation_of_the_Institute_of_Rural_Management,_in_Anand,_Gujarat_on_April_26,_2011.jpg?width=1400" alt="Graduates in kurta-pyjama at IRMA's 30th convocation, 26 April 2011, with Vice President Hamid Ansari" loading="lazy"><figcaption>Graduates in kurta-pyjama at IRMA's 30th convocation, 26 April 2011, with Vice President Hamid Ansari. Photo: <a href="https://commons.wikimedia.org/wiki/File:The_Vice_President,_Shri_Mohammad_Hamid_Ansari_with_the_students,_at_the_30th_Convocation_of_the_Institute_of_Rural_Management,_in_Anand,_Gujarat_on_April_26,_2011.jpg">Vice President's Secretariat, GODL-India</a></figcaption></figure>
 
 ### Translating Kurien
 

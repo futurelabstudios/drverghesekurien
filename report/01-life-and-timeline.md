@@ -4,7 +4,10 @@ parent: The Report
 nav_order: 1
 ---
 
+<div class="eyebrow">Chapter 1</div>
 # 1. Life & timeline
+
+<figure class="fig float-right"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Verghese_Kurien_in_2009_%28cropped%29.jpg?width=600" alt="Dr. Verghese Kurien at the AIMA Lifetime Achievement Award, 2009" loading="lazy"><figcaption>Dr. Verghese Kurien at the AIMA Lifetime Achievement Award, 2009. Photo: <a href="https://commons.wikimedia.org/wiki/File:Verghese_Kurien_in_2009_(cropped).jpg">Ministry of Railways, GODL-India</a></figcaption></figure>
 
 ## At a glance
 

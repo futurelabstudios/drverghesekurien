@@ -4,6 +4,7 @@ parent: The Report
 nav_order: 11
 ---
 
+<div class="eyebrow">Chapter 11</div>
 # 11. Sources & bibliography
 
 ## Primary and institutional

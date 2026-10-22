@@ -4,7 +4,10 @@ parent: The Report
 nav_order: 2
 ---
 
+<div class="eyebrow">Chapter 2</div>
 # 2. Anand, Amul & the Kaira Union (1946–1973)
+
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Amul_Plant_at_Anand.jpg?width=1600" alt="The Amul dairy plant at Anand"><figcaption>The Amul dairy plant at Anand. Photo: <a href="https://commons.wikimedia.org/wiki/File:Amul_Plant_at_Anand.jpg">Notnarayan, CC BY-SA 3.0</a></figcaption></figure>
 
 ## The problem: Polson and the Bombay Milk Scheme
 
@@ -23,7 +26,11 @@ Kurien was posted to the government's research creamery at Anand in 1949, unhapp
 
 ## The buffalo-milk breakthrough
 
+<figure class="fig narrow float-right"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/H._M._Dalaya.jpg?width=500" alt="H. M. Dalaya, who developed the process for making milk powder from buffalo milk" loading="lazy"><figcaption>H. M. Dalaya, who developed the process for making milk powder from buffalo milk. Photo: <a href="https://commons.wikimedia.org/wiki/File:H._M._Dalaya.jpg">Dalaya family collection via Erma79, CC BY-SA 3.0</a></figcaption></figure>
+
 Most of Kaira's milk came from buffaloes, and the established view held that buffalo milk could not be made into skim milk powder or infant food. **H. M. Dalaya**, Kurien's fellow dairy engineering student in the US, came to Anand and developed the process. This let a farmer cooperative compete with **Nestlé** and **Glaxo** in condensed milk and baby food, and handle the "flush season" when milk was plentiful.
+
+<figure class="fig narrow"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg?width=800" alt="The Amul trinity: Verghese Kurien, Tribhuvandas Patel and H. M. Dalaya" loading="lazy"><figcaption>The "Amul trinity": Verghese Kurien, Tribhuvandas Patel and H. M. Dalaya. Photo: <a href="https://commons.wikimedia.org/wiki/File:2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg">Dalaya family collection via Erma79, CC BY-SA 4.0</a></figcaption></figure>
 
 ## Growth
 

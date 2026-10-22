@@ -4,7 +4,10 @@ parent: The Report
 nav_order: 4
 ---
 
+<div class="eyebrow">Chapter 4</div>
 # 4. Gujarat Co-operative Milk Marketing Federation (GCMMF)
+
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Amul_factory.jpg?width=1600" alt="Entrance to the Amul dairy, Anand"><figcaption>Entrance to the Amul dairy, Anand. Photo: <a href="https://commons.wikimedia.org/wiki/File:Amul_factory.jpg">Balajijagadesh, CC BY-SA 3.0</a></figcaption></figure>
 
 ## What it is
 

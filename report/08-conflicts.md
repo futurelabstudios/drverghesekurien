@@ -4,6 +4,7 @@ parent: The Report
 nav_order: 8
 ---
 
+<div class="eyebrow">Chapter 8</div>
 # 8. Conflicts & controversies
 
 An honest archive records the hard parts too. Please contribute **sourced** material and keep the tone fair to everyone involved.
