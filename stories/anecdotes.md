@@ -168,6 +168,98 @@ Gupta also writes that the nurse said Kurien’s blood was hard to obtain. That 
 
 **Source.** [Dhiraj Hazarika, Vrikshamandir, 30 May 2020](https://vrikshamandir.com/2020/05/30/rules-must-be-followed-to-maintain-discipline/)
 
+### Everything that goes up must come down
+
+**Who told it.** Dushyant Mishra, PRM 18. He signs the note as IRMA and NDDB, 1999–2003.
+
+**When and where.** The NDDB building in Mumbai, on an evening when he was posted there. His flat was on the seventh floor. The guesthouse was on the tenth. He does not give the day.
+
+**The story.** The lift was old, with one call button, so the doors did not say whether the car was going up or down. They opened, and he nearly stepped in on Kurien. He asked if it was going down. Kurien told him that everything that goes up must eventually come down, and to get in. The ride was short. At the tenth floor Kurien walked out. Mishra got as far as wishing him a good evening, and Kurien wished him back.
+
+**Source.** [Dushyant Mishra, Vrikshamandir, 29 May 2020](https://vrikshamandir.com/2020/05/29/every-thing-that-goes-up-eventually-comes-down/)
+
+### With each year this slope gets steeper
+
+**Who told it.** Dushyant Mishra, the same note. He was still at IRMA.
+
+**When and where.** A function in the IRMA auditorium. Dr and Mrs Kurien were there. He does not date it.
+
+**The story.** At the end Kurien walked toward the rear exit. The aisle there is a ramp, not steps. Mishra was seated by the aisle, near the back. Everyone stood. Kurien missed his footing. Mishra put out a hand, and Kurien took it. He looked at Mishra, smiled, and said that with each year the slope got steeper.
+
+**Source.** [Dushyant Mishra, Vrikshamandir, 30 May 2020](https://vrikshamandir.com/2020/05/30/each-year-this-slope-gets-steeper/)
+
+### Integrity is either there, or it is not
+
+**Who told it.** C. P. Mohan, PRM 01, first batch. He wrote for the December 2012 commemorative issue of IRMA’s *Network*. By then he was managing director of NABARD Financial Services in Bangalore. A brother’s letter in early 1980 had sent him to the entrance. He joined GCMMF after the course and left it in 1986 for NABARD.
+
+**When and where.** A few months into the GCMMF job. Kurien’s chamber. Six or seven from the first batch, women and men, had been called in.
+
+**The story.** Word had gone round that someone from the junior batch had been removed for falling one mark short of the qualifying degree. The Anand alumni protested. Kurien told them that the mark was not the reason. The student had misrepresented facts and broken trust. That, he said, was a failure of integrity. He looked at the women, asked their pardon, and said that integrity is like virginity: it is either there, or it is not.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### All crooks are smart
+
+**Who told it.** C. P. Mohan, from the same GCMMF years. He tells it as an incident of that time. He does not say he was among the people who went in to plead.
+
+**The story.** A refrigerated milk tanker was in an accident, and the road tax had not been paid. In those days the tax was paid in cash. The officer who had the money had held it back to turn it over for a while. He was fired. Friends went to Kurien and asked for leniency. The man was clever, they said, and useful, and he gave women colleagues a lift in a two-wheeler with a boat-like fitting. Kurien’s answer, as Mohan records it: all crooks are smart, or they could not be crooks.
+
+Mohan marks three other office tales, in the same essay, as hearsay or as what “it is said” happened: dealers talking in a lift at the Mumbai guesthouse, a habit of calling for the list of people rejected for promotion, and a line at the computer centre, “I own this place.” Those three are not retold here.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### Three white Contessas
+
+**Who told it.** C. P. Mohan. He remembers seeing the letter.
+
+**When and where.** 1983 or 1984, he is not sure which. The letter was to the chairman of Hindustan Motors.
+
+**The story.** Kurien wrote that he had travelled in one of their Contessa cars, and that it rattled. He asked them to send three white, well-fitted Contessas. Mohan reads the sting as Kurien’s way of answering an order that he buy those cars.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### I did not factor in Indian Airlines
+
+**Who told it.** C. P. Mohan, from his student years.
+
+**When and where.** Ahmedabad. The whole batch had been taken to a meeting of the Indian Dairy Association. He does not give the day.
+
+**The story.** Kurien arrived a little late. He apologised, and said the mistake was his: he had been on time, and had not allowed for Indian Airlines. He then spoke for an hour. Mohan remembers one answer to people who disliked the chairman’s car. The Peugeot, Kurien said, was a better car than an Ambassador, and if it came cheaper as a donor’s gift, that made it more comfortable still. The students, about half the hall, applauded. Looking back, Mohan suspects that filling the hall was part of why they had been brought.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### Please write in English
+
+**Who told it.** C. P. Mohan, at GCMMF.
+
+**The story.** A two-page note in English came back from Kurien with a line on it: please write in English.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### Leaving, or staying for the second year
+
+**Who told it.** C. P. Mohan, while he was still in the course. His batch had come for a one-year programme.
+
+**The story.** IRMA moved to two years. The faculty asked the batch. A student could leave with the one-year diploma, or stay, on a stipend of Rs 1,200 a month for the second year. Mohan writes it down as a promise kept in the open, at a cost to the institute.
+
+**Source.** [C. P. Mohan, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### Why not a cooperative
+
+**Who told it.** Meher Gadekar, PRM 5, who was at IRMA from 1984 to 1986. In the December 2012 *Network* he published the meeting as a dialogue and called it verbatim. What follows is a paraphrase of that script, not a transcript from a tape. He was living in Pune and teaching at the Centre for Development Studies and Activities.
+
+**When and where.** Summer 2003, about April, 4 p.m., the chairman’s office at IRMA. P. A. Joseph, the assistant, told him to knock at four and go in. Gadekar had written for the appointment and had almost talked himself out of coming. M. J. Arul, who had taught him, told him to go.
+
+**The story.** He wanted a blessing, and money, for an NGO he was registering in Pune, SPROUT. Kurien asked why it was not a cooperative. A charity commissioner could supersede an NGO, he said, and a cooperative carried the ownership and the democracy better. Gadekar had already collected the trust forms. Kurien wished him luck, rang for Joseph, and had him connected to another organisation. Gadekar writes that he did not catch the name, and that Joseph later said A. P. J. Abdul Kalam was associated with it.
+
+Kurien told him that the students were his princes and princesses, that they had a right to the education and to his time, and that IRMA existed so they would stand with farmers. Asked what was wrong with India, Gadekar spoke of farm suicides in Maharashtra and of the services. Kurien asked who ran the government. The answer was the IAS. Gadekar’s record of the next line is that Kurien said to disband it, and that IRMA was training the cadre that should administer the country.
+
+He asked after batchmates. Gadekar named Daman Singh. Kurien, in this account, knew her as Manmohan Singh’s daughter and said the family had kept the institute’s rules and asked for nothing extra. Nitya Swaminathan’s father, M. S. Swaminathan, he called a respected agricultural scientist. About seventy-five minutes in, Gadekar put a bag of mangoes on the table. They were not Alphonso. He had no reserved berth from Pune, and had bought them in the Anand market. Kurien thanked him.
+
+On the way out, Joseph steered him into the lift with Kurien. They rode to the ground floor. The car was waiting.
+
+**Source.** [Meher Gadekar, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
 ---
 
 ## Told by colleagues and farmers
@@ -274,11 +366,207 @@ Patel told the interviewer that she used to ask him what would happen when the n
 
 **Source.** [Indian Express, 26 November 2018](https://indianexpress.com/article/india/ignore-such-remarks-verghese-kuriens-daughter-on-conversion-charge-5464927/)
 
+### My team is in trouble
+
+**Who told it.** R. K. Nagar, an NDDB officer who joined in the expansion for the first phase of Operation Flood. Dr P. K. Sinha, then an apprentice, added a comment on the same page. He says he played.
+
+**When and where.** A Sunday, late 1972 or early 1973, on Nagar’s memory. Sinha dates the match to Christmas Day, December 1972. The ground was in front of the postgraduate hostel at Khetiwadi. Nagar also spells it Kheriwadi. NDDB’s own cricket had moved from tennis ball, on a parking lot, to a red ball on a strip that S. B. Sen Mazumdar had levelled near where the tennis court later stood.
+
+**The story.** Mazumdar had accepted a friendly against the Khetiwadi postgraduate eleven. On the morning they were short of eleven. They went anyway. A young Englishman on the staff, David Brown, an adviser on systems in agriculture, made the other side think they were practising on the running track because they knew what they were doing. They did not.
+
+Kurien arrived with Molly. He counted heads and said they could not play without eleven, then that he would play. The postgraduates batted. Nagar, handed the ball against his will, took two wickets in an over with a grip he had once seen and did not understand. Brown asked what the grip was. The innings closed around 70 or 75. NDDB then lost three wickets before 20. Nagar went in, hit two wild boundaries and a single, missed the rest of the over, and was out.
+
+Kurien went in. Nagar’s account is that Kurien said his team was in trouble, so he must bat, and took Nagar as runner. The running was light. Nagar puts the score at 26 or 28, not out, and guesses they won by a wicket. He is not sure of the result. He writes that the innings showed Kurien had been a regular in his college side at Guindy, and that this was the only time the NDDB side saw him hold a bat.
+
+Sinha remembers the day differently on one point. A runner was offered, and Kurien said not to give him one, because the runner would run him out.
+
+A comment signed only “Nirmala,” on college cricket, a season for Bihar while he was at Tisco, and boxing, is not used. The name is not enough to identify the witness. Boxing, as a private secretary’s remark, is already in [UNVERIFIED.md](../UNVERIFIED.md).
+
+**Source.** [R. K. Nagar, Vrikshamandir, 6 July 2020](https://vrikshamandir.com/2020/07/06/dr-k-and-cricket/), including the comment by Dr P. K. Sinha.
+
+### Do you have passports
+
+**Who told it.** R. K. Nagar. The other man was Shailendra. Nagar does not give him a surname. Nagar writes that the two of them disagree on one name in the story, and he keeps both.
+
+**When and where.** 1972, an interval in the weekly film on the NDDB campus. The screen was a white sheet on the hostel kitchen wall. A 16mm projector. Sofas were brought out for Kurien, Molly, A. K. Roychaudhari, and, when he came, Michael Halse. On the Monday they were in Kurien’s office. The next day they took the letter he gave them to Gandhinagar.
+
+**The story.** Kurien stood up, turned, and asked where Shailendra and Nagar were. He asked if they had passports. They did not. He told Shailendra that the two of them should see him on Monday. He was sending them to England for training in computers. Nagar, by his own account, was thinking about the passport and missed the sentence. Shailendra told him afterwards.
+
+On Monday Kurien handed them the forms. An IAS officer of joint secretary’s rank or above had to endorse them. The only IAS officer they knew was Ashok Koshy, and he could not sign. Kurien rang a senior IAS friend in Gandhinagar, wrote a letter, and sent them.
+
+Nagar remembers the officer as K. G. Badlani, then agriculture secretary of Gujarat. Shailendra remembers F. J. Heredia. Nagar thinks Heredia was then managing director of GSFC and living in Vadodara. They travelled together, so it was one office. The officer said he could not endorse a passport for men he had not known for three years. As they turned to go, Nagar said he hoped the officer at least knew Kurien. The tone changed. He read the forms, asked Shailendra whether his mother had been eighteen when he was born, and said the answer had better be right, because the endorsement rested on Kurien’s letter. The forms came back signed. Shailendra telephoned his father from Ahmedabad. The date was right. The passports came in about a month.
+
+The course was nearly three months. FAO paid, and its weekend allowance, as Nagar remembers it, would barely have covered one of those weekends. The foreign-exchange quota for the two of them together was ten pounds. Nagar writes that they were the first NDDB people sent abroad for training. Wally Saunders, who had consulted at NDDB and had a hand in choosing them, met them at Heathrow and would not let them sleep through the first English evening. That part of the journey is Nagar’s. Kurien’s part ends with the posting and the letter.
+
+**Source.** [R. K. Nagar, Vrikshamandir, 27 July 2020](https://vrikshamandir.com/2020/07/27/first-trip-abroad/)
+
+### What would you do if you were the chairman
+
+**Who told it.** R. K. Nagar.
+
+**When and where.** 1 April 1971, the main lobby of the old NDDB hostel. The first dinner of BOHO, the staff club, after the move to the campus in 1970. Amul people were there as well as NDDB. Dr and Mrs Kurien came.
+
+**The story.** Anirudhan, assistant secretary, was “elected” the first BOHO king by drawing a slip. Every slip had his name. He played along. Later the bowl went round with forfeits: a step, a song, a mimicry. Kurien drew one, read it, folded it, and smiled. He showed it to Molly. They both smiled. He would not perform. He passed the slip to the master of ceremonies, Ashok Koshy, and told him to read it out. The slip asked what he would do if he were chairman of NDDB.
+
+S. C. Malhotra comments that the photographs on the page are from a fancy-dress dinner in December 1972, not from this night. The slip, as Nagar dates it, belongs to 1 April 1971. The site’s editor notes that pictures from that April, from a table-tennis tournament, and from the later dinner have been mixed. The mix-up is about the pictures, not a second version of the slip.
+
+**Source.** [R. K. Nagar, Vrikshamandir, 14 November 2021](https://vrikshamandir.com/2021/11/14/dr-kurien-and-the-first-boho-dinner/)
+
+### Can you believe this man was cabinet secretary
+
+**Who told it.** R. K. Nagar. He had arranged to be in Madras when Kurien was.
+
+**When and where.** Madras, 1986 or 1987. The flat of B. Sivaraman, a former cabinet secretary, on the second or third floor of an ordinary three-storey block.
+
+**The story.** The Indian Dairy Association had honoured Sivaraman. Kurien had missed the ceremony and had taken it on himself to deliver the citation the next time he was in the city. He had telephoned, taken the address, and fixed a time. Nagar went with him from the hotel.
+
+The building looked poorly kept. The living room, as Nagar measured it, was about ten feet by ten: a divan, four folding chairs, bare walls. Tea came in ordinary cups. The two men talked about working with C. Subramaniam, and about Sivaraman’s part in the green revolution, which Nagar says is little known. Sivaraman was unwell. They left.
+
+On the stairs Kurien said Nagar’s name and stopped. His eyes had filled. In the car he asked, in a voice Nagar describes as choked, whether it was believable that this man had been cabinet secretary, a man with a name for being honest, and whether this was how a government should leave him. He said no more. At the hotel he was still in tears, and waved Nagar on.
+
+**Source.** [R. K. Nagar, Vrikshamandir, 27 May 2020](https://vrikshamandir.com/2020/05/27/rk-nagar-writes-the-unseen-side-of-dr-kurien/)
+
+### One mad person was enough
+
+**Who told it.** R. K. Nagar, then NDDB’s regional director for the south. He was writing in May 2020, and put the visit about thirty years earlier.
+
+**When and where.** The reception of the NDDB office at Sabri Complex, Residency Road, Bangalore, while that was still the office.
+
+**The story.** The thing Kurien had seen was a fossilised piece of tree, about a metre tall. Nagar had noticed pieces like it on a roadside in Pondicherry, going out with Chandrashekhar, managing director of the union, to a village society. There were seventy-two villages, and a society in each, and the technical-inputs programme had already covered them. On the way back they stopped at a fossil park: trunks in sections, diameters near five feet, which he was told were fourteen to sixteen million years old. The lieutenant governor, R. N. Haldipur, had fenced a site that was being vandalised. Taking a piece out of the park was an offence.
+
+About a month later Chandrashekhar arrived in Bangalore with four pieces he said had been lying well outside the park, left by someone who had picked them up and then abandoned them. The tall one went in the office. Kurien called Nagar out of the reception and said he had thought there was only one mad person in NDDB, Amrita Patel, and that she now had company.
+
+When E. Madhavan headed the region, the piece was set on a raised part of the lawn at the later Bangalore office. Nagar does not know if it is still there. He still had a smaller piece, about fifteen inches, when he wrote.
+
+**Source.** [R. K. Nagar, Vrikshamandir, 30 May 2020](https://vrikshamandir.com/2020/05/30/you-too/)
+
+### Throw the fellow out
+
+**Who told it.** R. K. Nagar, who is careful about the chain. Ashok Koshy, then Kurien’s executive assistant, told it to the officers. Nagar did not see it. The marginal words on the letter are not in his account, and they are not guessed here.
+
+**When and where.** The start of Operation Flood, the early 1970s. A letter from the FAO and the World Food Programme to Kurien as chairman of the Indian Dairy Corporation, and then the IDC dispatch office at Baroda.
+
+**The story.** The donors wanted to send experts in dairy technology, engineering, breeding, and nutrition. The letter said India should accept them. Kurien wrote on the margin and passed it to Michael Halse to draft a reply. The reply went to Baroda to be sent, with the original letter pinned to it for the file. The dispatch clerk, Arvindakshan, posted the original as if it were an attachment.
+
+About two weeks later a short letter came back from the FAO. It returned the original, which seemed to have been enclosed by mistake. Kurien had not meant those remarks to travel. He told Koshy to summon the clerk. Arvindakshan, very thin, came the next morning afraid to go in. Koshy more or less pushed him through the door. Kurien looked up from his papers at a man who seemed about to fall on the desk, and called Koshy in. Who was this? The dispatch clerk he had asked to see. Kurien told Koshy to throw him out. He did not want to see him. Nagar’s conclusion, from Koshy, is that the fright saved the job.
+
+**Source.** [R. K. Nagar, Vrikshamandir, 24 June 2020](https://vrikshamandir.com/2020/06/24/this-one-is-funny/)
+
+### The operation was unsuccessful
+
+**Who told it.** N. K. Chawla, later an executive director of NDDB. He was counsellor at the Indian embassy in Brussels and looked after Kurien’s travel in Europe.
+
+**When and where.** A visit to Britain to meet the head of an organisation that might fund NDDB’s foot-and-mouth vaccine project. Amrita Patel was with Kurien. They were fifteen minutes early, waiting at reception. Chawla does not name the organisation or the city.
+
+**The story.** Patel went ahead to speak to the president’s secretary. Kurien then started down the corridor, saw a lavatory, and went in. He came out and told Chawla that the room was so spotlessly clean that the operation had been unsuccessful. Chawla writes that it took him a moment, and that the two of them laughed on the way to the meeting.
+
+**Source.** [N. K. Chawla, Vrikshamandir, 19 May 2020](https://vrikshamandir.com/2020/05/19/operation-unsuccessful/)
+
+### Picnic on air
+
+**Who told it.** Arup Mitra, NDDB, 1990–2005. He had come from a central government office and had been at NDDB about a year.
+
+**When and where.** Bombay airport, on the way back from a seven-day tour of oilseed markets and a cooperative plant at Gadwal, in what he describes as a hail-struck stretch of Andhra Pradesh. The flight was to Vadodara, and then the road to Anand. He writes Gadwal and, once, Gadwall. He does not give the year beyond the late 1990s.
+
+**The story.** In the departure lounge a senior engineer he knew greeted him. Mitra, from civil-service habit, then sat a little apart. He heard a knot of seven or eight NDDB officers talking projects and cursing the boards of some milk unions. He did not know them. They did not look at him.
+
+At boarding, Kurien, in slippers and with an ordinary bag, said he thought he had seen Mitra somewhere. Mitra said he worked at NDDB, in CMMO. Kurien named Mitra’s boss, put him alongside in the queue, and asked where he had been. On the aircraft Kurien was in business class and Mitra in the first row of economy. Kurien called him back, pointed to the empty seat, and asked about the family and the tour. He listened, then asked what Mitra thought they should do. Mitra said they should buy elsewhere, at a price they could stand. Kurien asked about his earlier work on central schemes in the north-east, which Mitra had not known was on the chairman’s list, offered tea, and said they should meet after landing.
+
+The other NDDB officers had boarded from the rear. The head of engineering, in a back row, sent for Mitra and asked what he had been doing near the chairman. Mitra told him. Outside, the chairman’s driver was waiting. Kurien asked how Mitra would get to Anand, and told the driver to have one of the officers who had just landed give him a lift. As Mitra left, Kurien smiled and said to tell the head of human resources that he was delighted: these days NDDB officers were having a gala time, a picnic on air.
+
+**Source.** [Arup Mitra, Vrikshamandir, 4 May 2020](https://vrikshamandir.com/2020/05/04/picnic-on-air/)
+
+### A flawless private life
+
+**Who told it.** IVNS Raju, NDDB corporate human resources, 1992–2005.
+
+**When and where.** Anand, soon after he joined on 2 July 1992. He had been interviewed in the first week of May, after a written test at Ceebros Complex in Chennai in January.
+
+**The story.** He hired a truck from Marakkanam, near Pondicherry, for Rs 7,500, paid half in advance, and paid the driver the rest at Anand against a receipt. He then telephoned the transport company and had the driver confirm it. About a month later the owner wrote straight to Kurien and asked that Raju be told to pay the balance.
+
+R. S. Daniel, deputy manager in human resources and Raju’s reporting officer, spent a week on it. He showed Raju Kurien’s remark on the letter. As Raju remembers the wording, it was roughly that an NDDB officer must have a flawless private life as well. Raju gave his explanation. Daniel replied to the owner. The matter ended. Raju was not made to pay the Rs 3,750 again.
+
+**Source.** [IVNS Raju, Vrikshamandir, 4 July 2020](https://vrikshamandir.com/2020/07/04/occasions-when-i-met-dr-kurien/)
+
+### The same low voice
+
+**Who told it.** IVNS Raju.
+
+**When and where.** Two briefings. One was an orientation for NDDB’s Kiriya dairy project in Sri Lanka. He does not date it. The other was a meeting with visiting students of the Indian Institute of Management Ahmedabad, in February 1999.
+
+**The story.** After the Sri Lanka briefing Kurien asked, very quietly, whether any questions were still unanswered. Raju asked him to repeat it. He did, at the same pitch. Raju could then name questions that later sessions would take. He took the point to be that Kurien spoke low, and expected the answer at that level.
+
+In February 1999 a student put a question loudly. Kurien’s comment, as Raju recalls the sense of it, was that voices start out easy to hear, and that people choose a tone that makes others uncomfortable.
+
+On the same page his daughter, Nirmala Kurien, writes that at home he was particular in the same way. If she was excited and loud he would ask whether she had a loudspeaker in her throat, or say that they were not deaf. She says she never heard her parents raise their voices, including when she was difficult or the dog made a mess. That is her memory, not Raju’s.
+
+**Source.** [IVNS Raju, Vrikshamandir, 4 July 2020](https://vrikshamandir.com/2020/07/04/occasions-when-i-met-dr-kurien/), including the comment by Nirmala Kurien.
+
+### You can smile without making a noise
+
+**Who told it.** IVNS Raju. Promod Joshi was in the room with him.
+
+**When and where.** The first-floor corner room that was R. S. Daniel’s cabin. Raju does not date it.
+
+**The story.** A joke had been told. Daniel laughed, and kept laughing. They did not hear Kurien on the stairs. He appeared in the doorway, said that one can smile without making a noise, and went back down. Raju writes that his face showed no anger. The three of them were left with the lesson.
+
+**Source.** [IVNS Raju, Vrikshamandir, 4 July 2020](https://vrikshamandir.com/2020/07/04/occasions-when-i-met-dr-kurien/)
+
+### It must be very tasty
+
+**Who told it.** IVNS Raju, who was coordinating the meeting. He first writes “Nigerien” and then “Nigerian.” The sentence that carries the episode says a Nigerian team. Both words are his. This archive does not decide between them.
+
+**When and where.** The board room on the ground floor of the chairman’s building at NDDB. Six visitors. He does not date it.
+
+**The story.** Kurien came at the time fixed and asked what had struck them most. One of the women said the bull she had seen was beautiful, shining, and well built, and that it must be very tasty. Kurien looked at her for a few moments, smiled, and went on to the others.
+
+**Source.** [IVNS Raju, Vrikshamandir, 4 July 2020](https://vrikshamandir.com/2020/07/04/occasions-when-i-met-dr-kurien/)
+
+### Fifteen minutes became forty-five
+
+**Who told it.** K. D. Balchandani, IRMA’s resident doctor, in an interview with Anand Venkatesh, then an associate professor at IRMA, for the December 2012 *Network*. Balchandani calls himself a personal friend.
+
+**When and where.** The Tribhuvandas Foundation. Kurien was with a ministerial delegation. Balchandani had been given fifteen minutes.
+
+**The story.** The meeting ran to about forty-five. Kurien listened to his views on rural development and broke in only now and then. Later Haldipur, then director of IRMA, told Balchandani that Kurien had repeated “the interesting views of a young doctor on rural development” at a meeting of the Aga Khan Foundation. The retelling is Haldipur’s report to him, not a meeting Balchandani attended.
+
+**Source.** [K. D. Balchandani, interviewed by Anand Venkatesh, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### How much money would you need
+
+**Who told it.** K. D. Balchandani, same interview.
+
+**When and where.** After he left Vidyanagar Municipal Hospital in a hurry, and was low. Kurien called him. Joseph was sent for.
+
+**The story.** Kurien asked what he would do next. Something on his own, perhaps. Kurien asked how much money that would take. Balchandani said he did not need any. Kurien insisted, and told Joseph to release Rs 10 lakh. Balchandani did talk him out of it. What stayed with him was that the offer had been made. Molly, he says, would tell Kurien to let the doctor go, because he had work.
+
+**Source.** [K. D. Balchandani, interviewed by Anand Venkatesh, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### These days he wants only kulfi
+
+**Who told it.** K. D. Balchandani. The visits continued after Kurien left IRMA.
+
+**When and where.** Kurien’s house in Anand, toward the end of his life.
+
+**The story.** Kurien had stopped recognising many people. He still recognised Balchandani, and would ask how the doctor was. He had almost stopped eating. Both men had diabetes. Balchandani would ask whether he wanted rabdi or kulfi. Kurien nodded. Balchandani went out for a sugar-free kulfi and brought it back in a thermos. Molly said that these days he wanted to eat only kulfi.
+
+**Source.** [K. D. Balchandani, interviewed by Anand Venkatesh, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
+### Take him out again
+
+**Who told it.** K. D. Balchandani.
+
+**When and where.** IRMA’s early years. A weekend, with a guest Kurien had brought. The guest was Romi Pillai, a magistrate in London, involved in social work. That evening, Balchandani’s house.
+
+**The story.** Kurien told Balchandani to show Pillai the country around Anand, and the work in the villages, and to give an honest picture. Balchandani drove him. The same evening Haldipur was at the door. Balchandani assumed the morning had gone badly. It had not. Pillai had been impressed, and Kurien’s instruction was to take him out again, with Balchandani along.
+
+**Source.** [K. D. Balchandani, interviewed by Anand Venkatesh, IRMA *Network*, December 2012](https://www.irma.ac.in/uploads/network/pdf/81.pdf)
+
 ---
 
 ## Told by Kurien in sourced interviews
 
-These are stories he told a journalist or a convocation, as that listener published them. They are not taken from his books. One autobiography episode is included at the end, and only as a reviewer’s page-cited paraphrase, because this research did not read the book.
+These are stories he told a journalist or a convocation, as that listener published them. They are not taken from his books. One autobiography episode is included, and only as a reviewer’s page-cited paraphrase, because this research did not read the book. A later interview in which he told that same scene is noted under it, and is not a second story.
 
 ### That happiness was infectious
 
@@ -354,7 +642,41 @@ This archive repeats the remark because he gave it to a journalist and she publi
 
 A harsher scene from the same book, a confrontation in a minister’s office, is named in [UNVERIFIED.md](../UNVERIFIED.md) only as a page citation. It is not retold here.
 
-**Source.** [Sriram, 17 April 2006](http://joy-of-books.blogspot.com/2006/04/kurien-personal-essay.html), citing *I Too Had a Dream*.
+Suveen K. Sinha, in a *Business Today* cover story of 21 November 2000, has Kurien tell the same exchange from his own mouth. In that telling it is his first meeting of the IIMA board, after his cousin Ravi J. Matthai asked him onto it. Kurien had said the institute was spending public money to make managers for transnationals, when it should be making them for agriculture. The cigar is in the industrialist’s hand. Kurien does not go back to that board. Sinha presents the refusal as the start of building IRMA, founded in 1979, with Matthai among the first on its board. Sriram’s page from the book and Sinha’s interview are the same scene. They are not collapsed into one tidy version, and the scene is not counted twice.
+
+**Sources.** [Sriram, 17 April 2006](http://joy-of-books.blogspot.com/2006/04/kurien-personal-essay.html), citing *I Too Had a Dream*; [Suveen K. Sinha, *Business Today*, 21 November 2000](https://archives.digitaltoday.in/businesstoday/20001121/cover3.html)
+
+### Krafty Amul
+
+**Who told it.** Vinod Mathew, then of *The New Indian Express*. This was the first of many meetings.
+
+**When and where.** Kurien’s room in Anand, 1990 or 1991. Mathew had come from Ahmedabad, a journey of about two hours, to check reports that Kraft Foods was in talks to buy the Amul brand from GCMMF.
+
+**The story.** Mathew asked. Kurien looked up and said, quietly, that Kraft might have plans for Amul, and that Amul had no plans for Kraft just then. When Amul was ready to take over Kraft, Mathew would hear of it. Then, as a stage whisper: what would one call the combination, anyway — Krafty Amul?
+
+Mathew writes that later, once the reporter was a familiar face, Kurien would start on older stories: Nehru telling him to take on Polson in Anand, and building IRMA with Ravi Mathai, founder-director of IIMA and his cousin, because the Ahmedabad institute could not give him rural managers. Mathew does not tell those stories. He says he suspects many visitors heard the same set. They are not reconstructed here.
+
+**Source.** [Vinod Mathew, *The New Indian Express*, 10 September 2012](https://www.newindianexpress.com/nation/2012/Sep/10/milkman-behind-taste-of-india-dies-404587.html)
+
+### Cut-laace
+
+**Who told it.** Vinod Mathew, from later meetings in the same room. He does not date them, except that Amul had not yet gone far into value-added products, and that ice cream was still a long way off.
+
+**The story.** Kurien asked him, as a Malayali, what he called the things his grandmother made, mostly of beef. Mathew said cutlets. Kurien shrugged, drew the word out as “cut-laace,” and said the multinationals put one of those inside a bun and called it a hamburger. Amul, he said, would soon bring out better products.
+
+Mathew also writes that there was a phase of open quarrel with Amrita Patel, his successor at NDDB, and that Kurien would not give an inch when he was losing ground. That is the whole of the episode on the page. The quarrel itself is not told. The succession fight, from other sources, is in [Debates](../debates.md).
+
+**Source.** [Vinod Mathew, *The New Indian Express*, 10 September 2012](https://www.newindianexpress.com/nation/2012/Sep/10/milkman-behind-taste-of-india-dies-404587.html)
+
+### No one would take him as a tenant
+
+**Who told it.** Kurien, to Suveen K. Sinha, over about an hour in the chairman’s office at IRMA. Sinha’s photographer said he had never caught so many expressions on that face. The garage is the detail Sinha prints. Tushaar Shah, elsewhere in this chapter, says Kurien spoke of his garage days and does not describe them.
+
+**When and where.** The conversation is the *Business Today* cover story of 21 November 2000. The years Kurien is describing begin with his arrival in the Anand area in 1949. He told Sinha he did not remember the year of the board meeting that sits beside this in the same article. He does place the garage at the start.
+
+**The story.** No one would rent him a room. He was a Christian, he ate meat, and, worst of all, he was a bachelor. He lived in a garage for a long time. Everything there, he said, had been built brick by brick. Sinha had asked him about the institute’s money worries. Kurien’s answer was that those, too, were a few more bricks.
+
+**Source.** [Suveen K. Sinha, *Business Today*, 21 November 2000](https://archives.digitaltoday.in/businesstoday/20001121/cover3.html)
 
 ---
 
