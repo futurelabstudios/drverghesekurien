@@ -1,8 +1,12 @@
 ---
-title: Home
-nav_order: 1
-permalink: /
+title: About this repository
+nav_exclude: true
+permalink: /about-repository/
 ---
+
+![Dr. Verghese Kurien receiving the AIMA Lifetime Achievement Award, 2009](https://commons.wikimedia.org/wiki/Special:FilePath/Verghese_Kurien_in_2009_%28cropped%29.jpg?width=360)
+
+**Website: https://futurelabstudios.github.io/drverghesekurien/**
 
 # Dr. Verghese Kurien — The People's Archive
 
@@ -45,6 +49,10 @@ Contributions arrive as **pull requests** and are reviewed by maintainers before
 3. Open a pull request. A maintainer will check sources, consent and rights, then merge.
 
 Every fact in the report should point to a source. Every memory should name its teller (or say why it can't). Every photo should say who owns it.
+
+## Photo credits
+
+Images on the site come from Wikimedia Commons under free licences (CC BY-SA and GODL-India). Full credits: [media/photos](media/photos/README.md).
 
 ## Licence
 

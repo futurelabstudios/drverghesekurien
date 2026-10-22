@@ -5,7 +5,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-color_scheme: light
+color_scheme: kurien
 search_enabled: true
 heading_anchors: true
 back_to_top: true
@@ -22,6 +22,9 @@ gh_edit_branch: "main"
 gh_edit_view_mode: "edit"
 
 footer_content: "Text licensed CC BY-SA 4.0 unless noted. Media remain the property of their owners and are shared with permission. Built by the community; started by Futurelab Studios."
+
+# Image library (Wikimedia Commons, free licences) — credits on media/photos page
+img_base: "https://commons.wikimedia.org/wiki/Special:FilePath/"
 
 exclude:
   - "memories/_TEMPLATE.md"
