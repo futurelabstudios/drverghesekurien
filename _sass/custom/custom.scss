@@ -146,3 +146,26 @@ h1, h2, h3, .site-title {
   .who strong { color: $ink; font-size: .9rem; }
   .who a { margin-top: .15rem; font-size: .75rem; }
 }
+
+// ---------- Site header / wordmark (all pages) ----------
+.site-header { align-items: center; }
+.site-title {
+  display: flex !important; align-items: center; gap: .75rem; padding-top: .5rem !important; padding-bottom: .5rem !important;
+  font-size: 1rem !important; text-decoration: none;
+}
+.brand-mark {
+  flex: 0 0 2.15rem; height: 2.15rem; border-radius: 50%; border: 1px solid $gold; color: $indigo;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-family: $serif; font-style: italic; font-weight: 500; font-size: .8rem; letter-spacing: .02em;
+}
+.brand-text { display: flex; flex-direction: column; line-height: 1.15; min-width: 0; }
+.brand-name { font-family: $serif; font-weight: 600; font-size: 1rem; color: $ink; letter-spacing: -.01em; white-space: nowrap; }
+.brand-sub { font-family: "Inter", system-ui, sans-serif; font-size: .6rem; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; color: $gold; margin-top: .2rem; white-space: nowrap; }
+
+// ---------- Sidebar navigation polish ----------
+.site-nav { padding-top: 1.25rem; }
+.nav-list .nav-list-item .nav-list-link { font-size: .88rem; letter-spacing: .005em; }
+.nav-list .nav-list-item .nav-list-link.active { font-weight: 600; color: $ink; background-image: none; box-shadow: inset 2px 0 0 $gold; }
+.main-header { background: rgba(251,248,241,.92); backdrop-filter: saturate(1.2) blur(8px); }
+
+@import "custom/home";
