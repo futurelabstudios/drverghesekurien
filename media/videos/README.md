@@ -1,6 +1,7 @@
 ---
 title: Videos
 parent: Media
+permalink: /media/videos/
 nav_order: 2
 ---
 
