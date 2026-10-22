@@ -1,6 +1,7 @@
 ---
 title: Photos
 parent: Media
+permalink: /media/photos/
 nav_order: 1
 ---
 
