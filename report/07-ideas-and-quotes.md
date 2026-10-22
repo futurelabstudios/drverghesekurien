@@ -7,6 +7,8 @@ nav_order: 7
 <div class="eyebrow">Chapter 7</div>
 # 7. Ideas, philosophy & quotes
 
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dr._V._kurien.JPG?width=1600" alt="Dr. Kurien (seated, centre left) with students, April 2009" style="object-position:center 60%"><figcaption>Dr. Kurien (seated, centre left) with students, April 2009. Photo: <a href="https://commons.wikimedia.org/wiki/File:Dr._V._kurien.JPG">Swetapadma07, CC BY-SA 3.0</a></figcaption></figure>
+
 ## Core ideas
 
 1. **Farmers must own the institutions that handle their produce.** Ownership, not charity, changes lives.

@@ -7,6 +7,8 @@ nav_order: 10
 <div class="eyebrow">Chapter 10</div>
 # 10. Books, films & media
 
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/1980_His_Royal_Highness_The_Prince_of_Wales_HM_Dalaya_visits_Amul.jpg?width=1600" alt="Cameras at Amul: the Prince of Wales' visit, December 1980" style="object-position:center 40%"><figcaption>Cameras at Amul: the Prince of Wales' visit, December 1980. Photo: <a href="https://commons.wikimedia.org/wiki/File:1980_His_Royal_Highness_The_Prince_of_Wales_HM_Dalaya_visits_Amul.jpg">Dalaya family collection via Erma79, CC BY-SA 3.0</a></figcaption></figure>
+
 ## Books by or about him
 
 | Year | Title | Notes |

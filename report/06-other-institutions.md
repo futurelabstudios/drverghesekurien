@@ -7,6 +7,8 @@ nav_order: 6
 <div class="eyebrow">Chapter 6</div>
 # 6. Other institutions & ventures
 
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/1980_His_Royal_Highness_The_Prince_of_Wales_HM_Dalaya_visits_Amul_2.jpg?width=1600" alt="H. M. Dalaya welcomes the Prince of Wales to Amul, December 1980" style="object-position:center 30%"><figcaption>H. M. Dalaya welcomes the Prince of Wales to Amul, December 1980. Photo: <a href="https://commons.wikimedia.org/wiki/File:1980_His_Royal_Highness_The_Prince_of_Wales_HM_Dalaya_visits_Amul_2.jpg">Dalaya family collection via Erma79, CC BY-SA 3.0</a></figcaption></figure>
+
 Kurien applied the Anand pattern — farmer ownership plus professional management — well beyond milk.
 
 | Institution / venture | Year | What it did | Status of our info |

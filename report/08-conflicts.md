@@ -7,6 +7,8 @@ nav_order: 8
 <div class="eyebrow">Chapter 8</div>
 # 8. Conflicts & controversies
 
+<figure class="chapter-banner"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Former_Prime_Ministers_of_India_-_Indira_Gandhi_%2C_Rajiv_Gandhi_%2C_Atal_Bihari_Vajpayee_%26_Manmohan_Singh_visisted_IRMA_to_attend_the_Annual_Convocation.jpg?width=1600" alt="Four prime ministers at IRMA convocations. Kurien worked with — and sometimes against — governments of every stripe" style="object-position:center 30%"><figcaption>Four prime ministers at IRMA convocations. Kurien worked with — and sometimes against — governments of every stripe. Photo: <a href="https://commons.wikimedia.org/wiki/File:Former_Prime_Ministers_of_India_-_Indira_Gandhi_,_Rajiv_Gandhi_,_Atal_Bihari_Vajpayee_%26_Manmohan_Singh_visisted_IRMA_to_attend_the_Annual_Convocation.jpg">IRMA Anand, CC BY-SA 4.0</a></figcaption></figure>
+
 An honest archive records the hard parts too. Please contribute **sourced** material and keep the tone fair to everyone involved.
 
 ## Against multinationals (1950s–1990s)
