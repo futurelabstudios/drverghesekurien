@@ -42,7 +42,7 @@ h1, h2, h3, .site-title {
   &.float-right { @media (min-width: 66.5rem) { float: right; width: 300px; margin: .3rem 0 1rem 2rem; } }
 }
 .chapter-banner {
-  margin: -1rem 0 2rem;
+  margin: 1.2rem 0 2rem;
   img { width: 100%; height: 320px; object-fit: cover; border-radius: 14px; display: block; box-shadow: 0 14px 40px rgba(20,35,43,.16); }
   figcaption { font-size: .8rem; color: #6a7a80; margin-top: .5rem; }
 }
