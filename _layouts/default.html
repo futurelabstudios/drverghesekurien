@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+{% assign section = "The archive" %}
+{% if page.url contains "/report/" %}
+  {% assign section = "The Report" %}
+{% elsif page.url contains "/stories/" %}
+  {% assign section = "Stories" %}
+{% elsif page.url contains "/memories/" %}
+  {% assign section = "Memories" %}
+{% elsif page.url contains "/media/" %}
+  {% assign section = "Media" %}
+{% elsif page.url == "/life.html" %}
+  {% assign section = "Life" %}
+{% elsif page.url == "/work.html" %}
+  {% assign section = "Work" %}
+{% elsif page.url == "/timeline.html" %}
+  {% assign section = "Timeline" %}
+{% endif %}
+<body{% if page.url == "/" %} class="is-home"{% endif %}>
+  {% include header.html %}
+  {% if page.url != "/" %}
+  <p class="running">Dr. Verghese Kurien · {{ section }}</p>
+  {% endif %}
+  <main id="main">
+    {% if page.url == "/" %}
+      {{ content }}
+    {% else %}
+      <article class="prose">
+        {{ content }}
+      </article>
+      <nav class="rail" hidden aria-label="On this page"></nav>
+      {% include pager.html %}
+    {% endif %}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>

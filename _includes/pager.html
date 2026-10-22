@@ -1,0 +1,27 @@
+{% assign seq = site.data.book %}
+{% if page.url contains "/report/" %}
+  {% assign seq = site.data.report %}
+{% endif %}
+{% assign here = nil %}
+{% for item in seq %}
+  {% if item.url == page.url %}
+    {% assign here = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% if here != nil %}
+  {% assign prev_i = here | minus: 1 %}
+  {% assign next_i = here | plus: 1 %}
+  {% assign count = seq | size %}
+  <nav class="pager" aria-label="Continue reading">
+    {% if here > 0 %}
+      {% assign prev = seq[prev_i] %}
+      <a class="pager-prev" href="{{ prev.url | relative_url }}"><span>Previous</span>{{ prev.title }}</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if next_i < count %}
+      {% assign nxt = seq[next_i] %}
+      <a class="pager-next" href="{{ nxt.url | relative_url }}"><span>Next</span>{{ nxt.title }}</a>
+    {% endif %}
+  </nav>
+{% endif %}
