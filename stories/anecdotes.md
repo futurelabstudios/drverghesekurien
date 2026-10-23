@@ -586,7 +586,9 @@ He also gave the graduates ten pieces of advice, summarised in [Quotes](../quote
 
 He then said he took his revenge by doing a master’s in metallurgy and nuclear physics, because an underground explosion had turned his ambition toward nuclear engineering. Amul, GCMMF, and the World Food Prize describe the Michigan State degree as mechanical engineering, with dairy engineering as a minor. The institutional record and this interview are both in [Life](../life.md). The interview is not used to overwrite the degree.
 
-**Source.** [Rasheeda Bhagat, *Business Line*, 13 September 2012](https://www.thehindubusinessline.com/news/variety/doodh-ka-doodh-kurien-style/article23032255.ece)
+Michigan State’s own article of 10 January 2018 tells the same pasteurisation answer, without naming who asked, and says it was all it took. It gives the degree as mechanical engineering with a minor in nuclear physics. The university’s account sits between the two: mechanical engineering as Amul has it, with nuclear physics, as he told Bhagat, in the place where Amul puts dairy engineering.
+
+**Sources.** [Rasheeda Bhagat, *Business Line*, 13 September 2012](https://www.thehindubusinessline.com/news/variety/doodh-ka-doodh-kurien-style/article23032255.ece); [MSU AgBioResearch, 10 January 2018](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)
 
 ### The green hat and the yellow trousers
 
@@ -777,3 +779,15 @@ Benegal met Kurien in the 1960s, while working at the Advertising and Sales Prom
 **The story.** She said his greatest worry was that IRMA might produce a hundred more Kuriens, and that a Tribhuvandas would still be missing. She called Patel the rarest kind of politician: honest, patriotic, fair, and noble. Her father, she said, never doubted that farmers could work harder and produce more. He had chosen to live in Anand for almost 64 years, and he had worked, lived, and died in Gujarat.
 
 **Source.** [Indian Express, 27 November 2018](https://indianexpress.com/article/india/father-atheist-worked-entire-life-farmers-employee-dr-verghese-kurien-amul-5466268/)
+
+### One line at the collection centre
+
+**Who told it.** Nirmala Kurien, at a memorial talk for her father at Michigan State University. The university’s article on the talk is dated 10 January 2018 and places it in the autumn before.
+
+**When and where.** His student years in the United States, from 1946 to 1948, and then the Gujarat cooperatives.
+
+**The story.** She said he worked hard for equity and equality, and that as a student in America he had been taken aback by racial slurs and by buses that kept people apart. When he began working for the Gujarat cooperatives, she said, he insisted that milk be collected in a single line, morning and evening, every day of the year, whoever was pouring, of any class, creed, or sex. She said he saw no reason for anyone to be passed over, or used, for the sake of a business.
+
+Sriram’s memory of Kurien on the milk queue and caste, [above](#what-the-milk-queue-does-to-caste), is the same rule, as a student heard him explain it.
+
+**Source.** [MSU AgBioResearch, 10 January 2018](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy), read from the [Wayback Machine copy of 14 January 2026](https://web.archive.org/web/20260114134546/https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)

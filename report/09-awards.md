@@ -14,6 +14,7 @@ nav_order: 9
 | 1963 | Ramon Magsaysay Award for Community Leadership (⚠️ some sources say 1964) |
 | 1965 | Padma Shri |
 | 1965 | Honorary doctorate, Michigan State University |
+| 1991 | Distinguished Alumni Award, Michigan State University |
 | 1966 | Padma Bhushan |
 | 1986 | Wateler Peace Prize (Carnegie Foundation) |
 | 1986 | Krishi Ratna Puraskar |
@@ -26,9 +27,12 @@ nav_order: 9
 | — | Godfrey Phillips Bravery Award (year wanted) |
 | — | Honorary doctorates from 11 universities (list wanted) |
 
-**After his death:** 26 November observed as **National Milk Day**; Dr. Verghese Kurien Memorial Lecture at IRMA (from 2012); Amar Chitra Katha comic (2013).
+**After his death:** 26 November observed as **National Milk Day**; Dr. Verghese Kurien Memorial Lecture at IRMA (from 2012); Amar Chitra Katha comic (2013); bust at Michigan State University's International Center (30 June 2016); memorial talk at Michigan State (autumn 2017).
 
 ## Sources
 
 - [Verghese Kurien — Wikipedia](https://en.wikipedia.org/wiki/Verghese_Kurien)
 - [Katar Singh, IRMA Network tribute](https://www.irma.ac.in/faculty-research/research-and-publications/network/current-and-past-issues?issueid=178&tab=2)
+- [MSU alumni magazine, fall 2021](https://spartan.msu.edu/spartan-story-hub/magazines/fall-2021/a-body-of-good)
+- [*The Hindu*, 8 July 2016](https://www.thehindu.com/news/national/karnataka/Michigan-State-University-honours-Verghese-Kurien/article14477144.ece)
+- [MSU AgBioResearch, 10 January 2018](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)

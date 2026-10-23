@@ -18,11 +18,13 @@ nav_order: 11
 - [Amul — Dr. V. Kurien](https://amul.com/m/dr-v-kurien)
 - [Amul — The billion-litre idea](https://amul.com/m/How-Dr-Verghese-Kuriens-Billion-litre-Idea-Helped-India-Become-The-Worlds-Largest-Milk-Producer)
 - [Indian Dairy Association — Dr Kurien (PDF)](https://indiandairyassociation.org/pdf/info/Dr-Kurien.pdf)
+- [Michigan State University AgBioResearch, "Seeking equity for dairy farmers in India was lifelong legacy" (10 Jan 2018)](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy) ([archived copy](https://web.archive.org/web/20260114134546/https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy))
 - [PIB — Dairy background note (2024, PDF)](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/nov/doc20241125451901.pdf)
 
 ## Press
 
 - [*Business Today*, "IRMA: A Fairy Tale" (2000)](https://archives.digitaltoday.in/businesstoday/20001121/cover3.html)
+- [*The Hindu*, "Michigan State University honours Verghese Kurien" (8 Jul 2016)](https://www.thehindu.com/news/national/karnataka/Michigan-State-University-honours-Verghese-Kurien/article14477144.ece)
 - [*Gulf News* (Apr 2005)](https://gulfnews.com/world/asia/india/kurien-faces-siege-from-within-at-anand-institute-1.284983)
 - [*Business Standard* (15 Apr 2005)](https://www.business-standard.com/article/economy-policy/kurien-to-induct-5-new-members-irma-board-105041501021_1.html)
 - [*Business Standard*, "Kurien quits GCMMF" (2006)](https://business-standard.com/article/management/kurien-quits-gcmmf-106032000039_1.html)

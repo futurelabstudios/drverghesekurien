@@ -25,6 +25,14 @@ The World Food Prize says he received more than fifteen honorary degrees, from u
 
 Sources: [World Food Prize](https://www.worldfoodprize.org/blog/people/dr-verghese-kurien/); [MSU, fall 2021](https://spartan.msu.edu/spartan-story-hub/magazines/fall-2021/a-body-of-good).
 
+## Michigan State, after his death
+
+On 30 June 2016 Michigan State installed a bust of Kurien at its International Center, before faculty, students, and members of the Indian diaspora. *The Hindu* credits the idea to D. V. Mallikarjuna, an engineer with the Shivamogga Cooperative Milk Union in Karnataka and an admirer of Kurien, who wrote to the university in early May that year. Vipin Badaria, a sculptor from Sagar, made it from marble powder. With its wooden base it stands about ten inches tall. Mallikarjuna named Nirmala Kurien, the Anand milk union, Ashwin Maurya, a research scholar at the university, and Satish Udpa, its executive vice-president, as having helped.
+
+In the autumn of 2017 the university held a memorial talk in his honour. Udpa opened it. Nirmala Kurien and R. S. Sodhi, then managing director of Amul, spoke. The university’s article on it, dated 10 January 2018, says few of its alumni, if any, have touched more lives.
+
+Sources: [*The Hindu*, 8 July 2016](https://www.thehindu.com/news/national/karnataka/Michigan-State-University-honours-Verghese-Kurien/article14477144.ece); [MSU AgBioResearch, 10 January 2018](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy).
+
 ## A management award, in a government photograph
 
 On 21 February 2009, at the Foundation Day of the All India Management Association in New Delhi, Railway Minister Lalu Prasad presented Kurien with the association’s Lifetime Achievement Award for Management. The date and the occasion are in the caption of a Press Information Bureau photograph, released under the Government Open Data Licence. The picture is in [the photo credits](media/photos/CREDITS.md).

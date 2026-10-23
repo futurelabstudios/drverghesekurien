@@ -12,6 +12,8 @@ Short lines only. Each one has a listener and a link. Speeches are not reproduce
 
 **On the World Food Prize.** He said he was delighted, and that the prize was really for the heroic efforts of six million farmers, whose elected chairman he was. The prize foundation prints the remark on his laureate page. [Source](https://www.worldfoodprize.org/blog/people/dr-verghese-kurien/)
 
+**On Operation Flood, accepting the World Food Prize in 1989.** It was “not a story of the triumph of science and technology; there have been no miracles.” Quoted from the acceptance speech by Michigan State University, 10 January 2018. [Source](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)
+
 **On method, at NDDB.** “People will tell you there are many ways to skin a cat. But here in NDDB, we have only one — the Amul pattern.” Tushaar Shah, recalling 1977. [Source](https://vrikshamandir.com/2026/09/17/remembering-kurien-the-man-who-changed-countless-lives/)
 
 **On Dalaya.** “There is a clear division of labour. In Amul days, Dalaya did the work, and I did all the talking.” Shah, quoting him. [Source](https://vrikshamandir.com/2026/09/17/remembering-kurien-the-man-who-changed-countless-lives/)
@@ -41,5 +43,7 @@ At the same NID convocation in 1998 he offered ten rules. Rediff listed them. Pa
 **Shyam Benegal**, 9 September 2012: Kurien would often say he was a servant of the farmers, and he meant it. Set this next to the convocation story. He rejected *sevak* in Gujarati on the Amul lawns, and he used “servant” in English with the film-maker. [Source](https://www.hindustantimes.com/india/how-a-farmers-servant-painted-the-nation-white/story-w5muyu4dpzbC3Huk5XYRbK.html)
 
 **Nirmala Kurien**, 26 November 2018: he worked his whole life as an employee of the farmers. [Source](https://indianexpress.com/article/india/he-was-an-atheist-religion-played-no-part-in-his-life-says-kuriens-daughter-5466180/)
+
+**Nirmala Kurien**, at Michigan State in autumn 2017, on his rule for milk collection: “One line every day for the year whatever your class, creed or sex may be.” [Source](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)
 
 **Norman Borlaug**, as the World Food Prize recorded it in 2012: one of the world’s great agricultural leaders of the twentieth century. [Source](https://www.worldfoodprize.org/blog/2012/09/10/the-world-food-prize-pays-tribute-to-1989-laureate-dr-verghese-kurien/)

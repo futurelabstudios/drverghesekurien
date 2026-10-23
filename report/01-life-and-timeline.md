@@ -16,7 +16,7 @@ nav_order: 1
 | **Born** | 26 November 1921, Calicut (now Kozhikode, Kerala), Madras Presidency |
 | **Died** | 9 September 2012, Nadiad (near Anand), Gujarat, aged 90 |
 | **Family** | Wife Molly; daughter Nirmala; a grandson |
-| **Training** | B.Sc. Physics (Loyola College, 1940); B.E. Mechanical (College of Engineering, Guindy, 1943); M.S. Mechanical Engineering, Michigan State University |
+| **Training** | B.Sc. Physics (Loyola College, 1940); B.E. Mechanical (College of Engineering, Guindy, 1943); M.S. Mechanical Engineering, Michigan State University (1948; minor given as dairy engineering by Amul, nuclear physics by MSU) |
 | **Called** | "Father of the White Revolution"; the "Milkman of India" |
 | **Karma bhumi** | Anand, Gujarat — for more than six decades |
 | **Remembered on** | **National Milk Day, 26 November** (his birthday) |
@@ -32,7 +32,8 @@ Kurien was born into a Malayali Syrian Christian family. His father was a govern
 - Works at the **Tata Steel Technical Institute, Jamshedpur** after hoping to join the Army as an engineer.
 - Applies for a government scholarship in metallurgical engineering and is instead awarded one in **dairy engineering** — the accident that shaped Indian dairying.
 - Trains at the **Imperial Institute of Animal Husbandry, Bangalore**.
-- Goes to the United States and earns a master's in mechanical engineering at **Michigan State University**. ⚠️ Sources give **1947** and **1948**. He later joked that he studied metallurgical and nuclear engineering on the dairy scholarship.
+- Arrives at **Michigan State University** in the winter of 1946, by the university's own 2018 account. He debates with fellow students and wins a tennis championship.
+- Earns a master's in mechanical engineering at Michigan State. ⚠️ Sources give **1947** and **1948**; MSU (2018) and *The Hindu* (2016) both say 1948. ⚠️ Amul gives the minor as dairy engineering; MSU says nuclear physics. He later joked that he studied metallurgical and nuclear engineering on the dairy scholarship.
 
 ## Anand
 
@@ -76,6 +77,8 @@ Kurien was born into a Malayali Syrian Christian family. His father was a govern
 - **2012** — IRMA institutes the annual **Dr. Verghese Kurien Memorial Lecture**; the first is delivered by Dr. M. S. Swaminathan.
 - **2013** — Amar Chitra Katha publishes a comic on his life.
 - **2014 onwards** — 26 November is observed as **National Milk Day**.
+- **30 June 2016** — Michigan State installs his bust at its International Center, at the request of D. V. Mallikarjuna of the Shivamogga milk union ([*The Hindu*](https://www.thehindu.com/news/national/karnataka/Michigan-State-University-honours-Verghese-Kurien/article14477144.ece)).
+- **Autumn 2017** — memorial talk at Michigan State, with Nirmala Kurien and R. S. Sodhi ([MSU](https://www.canr.msu.edu/news/seeking-equity-for-dairy-farmers-in-india-was-lifelong-legacy)).
 - **2024** — the restored *Manthan* is screened at Cannes Classics.
 - **2025** — IRMA becomes part of **Tribhuvan Sahkari University**, named after his mentor Tribhuvandas Patel (see [Chapter 5](05-irma.md#2025-irma-becomes-part-of-tribhuvan-sahkari-university)).
 
